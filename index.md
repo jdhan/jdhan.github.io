@@ -2,21 +2,4 @@
 layout: default
 ---
 
-[Research Themes](./research.html)
-
-[People](./people.html)
-
-[Publications](./publications.html)
-
-[Chips](./chips.html)
-
-[Software](./software.html)
-
-[Lectures](./lectures.html)
-
-Welcome to the **Nifty Chips Laboratory** at Hanyang University. 
-The Nifty Lab is currently led by **Prof. Jaeduk Han**. 
-He recently came back to South Korea and joined Hanyang University as an assistant professor.
-
-We are actively recruiting researchers in various levels (undegrad/graduate/post-doc). 
-Please contact [Jaeduk Han](jdhan@eecs.berkeley.edu) if interested.
+This website is moved to https://niftylab.github.io
