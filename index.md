@@ -2,4 +2,4 @@
 layout: default
 ---
 
-This website is moved to https://niftylab.github.io
+This website is moved to [https://niftylab.github.io](https://niftylab.github.io)
