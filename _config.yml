@@ -3,4 +3,4 @@ logo: /assets/img/nifty_logo.png
 description: The Nifty Chips Laboratory at Hanyang University is working on cool circuits and their automatic generators. The Nifty Lab website is currently under construction.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
